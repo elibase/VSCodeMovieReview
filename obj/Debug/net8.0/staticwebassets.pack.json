@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VSCodeMovieReview.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VSCodeMovieReview.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\Godfather.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Godfather.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\Highlander.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Highlander.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\Highlander2.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Highlander2.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\LastOfTheMohicans.png",
+      "PackagePath": "staticwebassets\\images\\movies\\LastOfTheMohicans.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\PoliceAcademy6.png",
+      "PackagePath": "staticwebassets\\images\\movies\\PoliceAcademy6.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\RearWindow.png",
+      "PackagePath": "staticwebassets\\images\\movies\\RearWindow.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\RoadHouse.png",
+      "PackagePath": "staticwebassets\\images\\movies\\RoadHouse.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\Shawshank.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Shawshank.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\StarTreck4.png",
+      "PackagePath": "staticwebassets\\images\\movies\\StarTreck4.png"
+    },
+    {
+      "Id": "C:\\source\\CSharpProjects\\VSCodeMovieReview\\wwwroot\\images\\movies\\Superman4.png",
+      "PackagePath": "staticwebassets\\images\\movies\\Superman4.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VSCodeMovieReview.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VSCodeMovieReview.props",
+      "PackagePath": "build\\VSCodeMovieReview.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VSCodeMovieReview.props",
+      "PackagePath": "buildMultiTargeting\\VSCodeMovieReview.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VSCodeMovieReview.props",
+      "PackagePath": "buildTransitive\\VSCodeMovieReview.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
